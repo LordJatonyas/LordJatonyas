@@ -25,3 +25,4 @@ Engineering Science Undergraduate at the University of Oxford.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 <a href="https://www.codewars.com/users/LordJatonyas"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"></a>
+<a href="https://www.linkedin.com/in/lee-chih-jung/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
