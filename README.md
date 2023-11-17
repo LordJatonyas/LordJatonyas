@@ -22,4 +22,4 @@ Specialisation in Biomedical and Information Engineering, looking to focus on Co
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-<a href="[https://www.codewars.com/LordJatonyas](https://www.codewars.com/users/LordJatonyas)"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"></a>
+<a href="https://www.codewars.com/users/LordJatonyas"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"></a>
