@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Engineering Science Undergraduate at the University of Oxford.
 
 - Specialisation in Biomedical and Information Engineering 👨🏻‍💻
-- Excited about non-invasive techniques to learn about the brain 🧠
+- Non-invasive techniques to learn about the brain 🧠
 - Building software to make analysis of biosignals seamless 💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
